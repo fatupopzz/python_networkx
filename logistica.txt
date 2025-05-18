@@ -1,0 +1,10 @@
+BuenosAires SaoPaulo 10 15 20 50
+BuenosAires Lima 15 20 30 70
+Lima Quito 10 12 15 20
+SaoPaulo Bogota 12 18 25 60
+Quito Bogota 8 14 22 45
+SaoPaulo RioDeJaneiro 5 8 12 30
+RioDeJaneiro BuenosAires 9 14 20 45
+Bogota CiudadDeMexico 14 20 28 65
+CiudadDeMexico Miami 8 12 18 40
+Miami Toronto 6 10 16 35
